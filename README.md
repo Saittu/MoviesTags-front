@@ -1,4 +1,4 @@
-<h1 align="center">Rocket Notes</h1>
+<h1 align="center">MoviesTags</h1>
 
 <p align="center">
 Project carried out as a challenge for the explorer course, proposing to improve React skills
