@@ -7,8 +7,7 @@ Project carried out as a challenge for the explorer course, proposing to improve
 <p align="center">
     <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-Projeto">Projects</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-Libraries">Libraries</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-    <a href="#-licença">licenses</a>
+    <a href="#-Libraries">licenses</a>
 </p>
 
 <p align="center">
