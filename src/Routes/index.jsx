@@ -6,7 +6,7 @@ import { PagesRoutes } from "./Pages.routes";
 export function Routes(){
     return (
         <BrowserRouter>
-            <PagesRoutes/>
+            <AuthRoutes/>
         </BrowserRouter>
     )
 }
